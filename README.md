@@ -21,3 +21,11 @@ This project requires Python 3.6 or later. Clone the repository and install the 
 git clone https://github.com/tajuar2001/poker-game.git
 cd poker-game
 pip install -r requirements.txt
+
+
+
+
+
+
+todo 
+finish all the function setup
